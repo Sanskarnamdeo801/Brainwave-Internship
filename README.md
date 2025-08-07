@@ -21,7 +21,7 @@ This project is the first task of my data analytics internship at **Brainwave Ma
 
 ## How to View the Project
 
-You can view the full analysis and code in the Jupyter Notebook: [`Superstore_Analysis.ipynb`](https://github.com/Sanskarnamdeo801/Brainwave-internship/Superstore_Analysis.ipynb)
+You can view the full analysis and code in the Jupyter Notebook: [`Superstore_Analysis.ipynb`](https://github.com/Sanskarnamdeo801/Brainwave-Internship/blob/main/Superstore_Analysis.ipynb)
 
 *Note: The link above is a placeholder. Be sure to update it with the actual path to your notebook file in the repository.*
 
